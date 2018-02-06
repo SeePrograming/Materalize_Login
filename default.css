@@ -1,0 +1,21 @@
+body {
+  background: url(image/10.jpeg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+#emailid {
+  margin-top: 233px;
+}
+
+.input-field label {
+  color: #fff;
+}
+
+label {
+  color: #FFF;
+  font-weight: bold;
+}
+
+.material-icons {
+  color: #fff;
+}
